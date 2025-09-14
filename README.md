@@ -1,0 +1,1 @@
+# stor_manager-project
